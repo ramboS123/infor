@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Gusto por los Carros con Juan</title>
+</head>
+<body>
+    <!-- Encabezado de la página -->
+    <header>
+        <h1>El Gusto por los Carros con Juan</h1>
+    </header>
+
+    <!-- Menú de navegación -->
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#tipos">Tipos de Carros</a></li>
+            <li><a href="#galeria">Galería</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <!-- Contenido principal -->
+    <main>
+        <!-- Sección de introducción -->
+        <section id="introduccion">
+            <h2>Introducción</h2>
+            <article>
+                <p>Hola, soy Juan, y me encanta todo lo relacionado con los carros. Aquí comparto mi pasión por los autos.</p>
+            </article>
+        </section>
+
+        <!-- Sección de tipos de carros -->
+        <section id="tipos">
+            <h2>Tipos de Carros</h2>
+            <article>
+                <p>Estos son algunos tipos de carros que me fascinan:</p>
+                <ul>
+                    <li>Carros Clásicos</li>
+                    <li>Carros Deportivos</li>
+                    <li>Carros Todo Terreno</li>
+                </ul>
+            </article>
+        </section>
+
+        <!-- Sección de galería -->
+        <section id="galeria">
+            <h2>Galería</h2>
+            <article>
+                <p>Próximamente, agregaré fotos de los carros más impresionantes que he visto.</p>
+            </article>
+        </section>
+    </main>
+
+    <!-- Barra lateral -->
+    <aside>
+        <h3>Dato Curioso</h3>
+        <p>¿Sabías que el primer auto fue inventado en 1886 por Karl Benz?</p>
+    </aside>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>Contacto: <a href="mailto:davisag073@gmail.com">davisag073@gmail.com</a></p>
+        <p>&copy; 2024 El Gusto por los Carros con Juan</p>
+    </footer>
+</body>
+</html>
